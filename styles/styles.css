@@ -1,0 +1,44 @@
+/* Custom properties */
+:root {
+    --body-color: #E4E9F7;
+    --sidebar-color: #FFF;
+    --primary-color: #FF0000;
+    --primary-color-light: #F6F5FF;
+    --primary-color-dark: #D4D4D4;
+    --toggle-color: #DDD;
+    --text-color: #707070;
+    --selection-color: #000;
+
+    --tran-03: all 0.2s ease;
+    --tran-04: all 0.3s ease;
+    --tran-05: all 0.3s ease;
+
+    --border: .1rem solid rgba(0,0,0,.1);
+    --border-hover: .1rem solid var(#000);
+    --box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); 
+}
+
+body {
+    --body-color: #18191a;
+    --sidebar-color: #242526;
+    --primary-color: #3a3b3c;
+    --primary-color-light: #3a3b3c;
+    --toggle-color: #FFF;
+    --text-color: #CCC;
+    --hover-color: #454545;
+
+    --line-height: 1.5;
+    --border-radius: 15px;
+
+    --container-margin: 2.5rem;
+    --containner-padding: 2rem;
+
+    --button-color: #FFF;
+    --button-font-size: 17px;
+    --button-radius: 5px;
+    --button-height: 45px;
+
+    --typografie-padding: 1.5rem;
+    --typografie-font-weight: 700;
+    --typografie-font-size: 0.9231rem;
+}
